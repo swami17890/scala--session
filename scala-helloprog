@@ -1,5 +1,7 @@
-object Hello {
+object Hello 0{
 def main(args: Array[String]) {
 println("hello world")
 }
 }
+#define functions
+def fun1(para): rt = { body }
