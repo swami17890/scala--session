@@ -5,3 +5,5 @@ println("hello world")
 }
 #define functions
 def fun1(para): rt = { body }
+
+hello world
