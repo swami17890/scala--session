@@ -7,3 +7,9 @@ println("hello world")
 def fun1(para): rt = { body }
 
 hello world
+
+greatest of 2
+
+def gre(a: Int, b: Int, c:Int) : Int= {
+   if( a > b && a> c) a
+   else if( b> c) b else c }
